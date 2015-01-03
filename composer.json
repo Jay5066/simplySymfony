@@ -1,0 +1,16 @@
+{
+    "name": "Simply symfony",
+    "description": "It's Simply symfony project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Chand",
+            "email": "jchand5066@gmail.com"
+        }
+    ],
+    "require": {
+            "symfony/http-foundation": "2.1.*",
+            "symfony/routing" :"2.1.*"
+        }
+}
+    
